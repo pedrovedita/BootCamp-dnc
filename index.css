@@ -13,6 +13,8 @@
 body{
     margin: 0px; /*margem externa */
     padding: 0px; /*margem interna */
+    background: linear-gradient(180deg, rgba(12,112,242,0.5) 19.91%, rgba(12,112,242, 0) 24.84%), #303030;
+    background-repeat: no-repeat;
 }
 
 #menu{
